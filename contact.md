@@ -9,11 +9,11 @@ nav_order: 7
 <img width="200" height="200" src="{{ '/assets/vijay.png' | relative_url }}">&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/sai-venkatesh/" target="_blank">
-    <img width="50" height="50" src="{{ '/assets/linkedln.svg' | relative_url }}">
+    <img width="30" height="30" src="{{ '/assets/linkedln.svg' | relative_url }}">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="'https://www.linkedin.com/in/sowmiyanarayanan-g/" target="_blank">
-    <img width="50" height="50" src="{{ '/assets/linkedln.svg' | relative_url }}">
+    <img width="30" height="30" src="{{ '/assets/linkedln.svg' | relative_url }}">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/vijay-vignesh-0002/" target="_blank">
-    <img width="50" height="50" src="{{ '/assets/linkedln.svg' | relative_url }}">
+    <img width="30" height="30" src="{{ '/assets/linkedln.svg' | relative_url }}">
 </a>
