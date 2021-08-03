@@ -12,7 +12,7 @@ We thank the OpenCV foundation for giving us this opportunity and the tools need
 ![Open CV](assets/opencv.gif)
 
 
-                                    **Detailed Report :**
+#### Detailed Report :
 
 <a href="{{ '/assets/report.pdf' | relative_url }}" target="_blank">
     <img width="50" height="50" src="{{ '/assets/pdf_icon.svg' | relative_url }}">
