@@ -5,16 +5,18 @@ nav_order: 7
 ## About Us
 
 
-SAI VENKATESH&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SOWMIYA NARAYANAN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VIJAY VIGNESH
-
-<img width="200" height="200" src="{{ '/assets/sai.jpeg' | relative_url }}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="200" height="200" src="{{ '/assets/sai.jpeg' | relative_url }}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="200" height="200" src="{{ '/assets/vijay.png' | relative_url }}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 <figure>
-  <img src="assets/sai.jpg" alt="SAI VENKATESH"/>
+  <img src="assets/sai.jpeg" alt="SAI VENKATESH"/>
   <figcaption>SAI VENKATESH</figcaption>
+</figure>  <figure>
+  <img src="assets/sowmi.jpeg" alt="SAI VENKATESH"/>
+  <figcaption>SOWMIYA NARAYANAN</figcaption>
+</figure>  <figure>
+  <img src="assets/vijay.jpeg" alt="SAI VENKATESH"/>
+  <figcaption>VIJAY VIGNESH</figcaption>
 </figure>
+
+
 <a href="https://www.linkedin.com/in/sai-venkatesh/" target="_blank">
     <img width="30" height="30" src="{{ '/assets/linkedln.svg' | relative_url }}">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
