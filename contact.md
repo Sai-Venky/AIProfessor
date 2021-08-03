@@ -10,10 +10,10 @@ nav_order: 7
 
 <a href="https://www.linkedin.com/in/sai-venkatesh/" target="_blank">
     <img width="50" height="50" src="{{ '/assets/linkedln.svg' | relative_url }}">
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="'https://www.linkedin.com/in/sowmiyanarayanan-g/" target="_blank">
     <img width="50" height="50" src="{{ '/assets/linkedln.svg' | relative_url }}">
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/vijay-vignesh-0002/" target="_blank">
     <img width="50" height="50" src="{{ '/assets/linkedln.svg' | relative_url }}">
 </a>
