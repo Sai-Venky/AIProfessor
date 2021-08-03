@@ -6,7 +6,7 @@ nav_order: 1
 
 <div class="row" style="margin-top: -3.5em;">
 	<a class="ml-auto mr-2" href="{{ '/assets/report.pdf' | relative_url }}" target="_blank">
-	  <img height="60px" src="{{ '/assets/pdf_icon.svg' | relative_url }}">
+	  <img height="6px" src="{{ '/assets/pdf_icon.svg' | relative_url }}">
 	</a>
 </div>
 
