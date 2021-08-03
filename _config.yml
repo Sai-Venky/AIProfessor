@@ -1,4 +1,5 @@
-title: "AI Professor"
+title: AI Professor
+description: A system for Air Writing utilizing depth-based recognition and dynamic-tracking
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 search_enabled: true
@@ -26,3 +27,6 @@ search:
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
   button: false
+
+back_to_top: true
+back_to_top_text: "Back to top"
