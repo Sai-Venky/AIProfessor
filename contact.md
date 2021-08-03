@@ -5,7 +5,8 @@ nav_order: 7
 ## About Us
 <style>
     figure {
-    display: inline-block;
+        padding:10px;
+        display: inline-block;
     }
 </style>
 
