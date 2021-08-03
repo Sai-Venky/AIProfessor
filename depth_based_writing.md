@@ -14,7 +14,7 @@ The product makes use of two deep learning models to efficiently implement the a
 In addition to the above said functionalities, we have also provided a view of the user on-screen to enable him to better position himself with respect to the camera. The image of the user being displayed is inverted laterally to ensure that the movement is in accordance with that of the user.
 
 #### Depth Based Hand Removal 
-<img src="assets/flowchart1.png" width="635" height="350" alt="Depth Based Hand Removal ">&nbsp;&nbsp;
+<img src="assets/flowchart1.png" width="735" height="450" alt="Depth Based Hand Removal ">&nbsp;&nbsp;
 
 Another feature of our solution is that the user can decide where his writing zone can be. The threshold is set by the user himself. If at one point of time, the user is at a particular position he can set the writing zone to be in front of his body. If at another point of time, the user decides to move out of that position, he/she can correspondingly shift the writing zone as well. This gives additional flexibility to the user to move around.
 
