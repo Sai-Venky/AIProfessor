@@ -11,6 +11,9 @@ In order to mitigate this problem, a possible solution is to allow the user an o
 
 In a real-life scenario, a person adds the notes on the blackboard and physically moves oneself to write on a different section of the board. In other words, the blackboard is stationary and the user navigates around it.
 
+#### Expandable Board
+<img src="assets/flowchart2.png" width="635" height="350" alt="Expandable Board">&nbsp;&nbsp;
+
 In our proposed solution of “Lazy Move”, the user remains stationary and the blackboard (our canvas) is shifted according to the user’s action. The board is divided into two areas called the stationary area and the expandable area. When the user navigates in the expandable area, the canvas moves in the opposite direction of the user's movement, thereby creating additional space for writing.
 
 ![Expandable Board](assets/expandable_board.gif)

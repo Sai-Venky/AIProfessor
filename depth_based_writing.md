@@ -17,6 +17,9 @@ The second part of our solution is with regards to hand removal. Now that the us
 
 To see how, let us go back to the concept of traditional blackboards. When the user wants to write, he would place the marker on the plane, i.e., the board and when the user wants to stop writing, he/she would remove the finger out of the plane. This is where our idea spawned. We decided to split the world space into two zones in order to mimic the traditional boards: writing zone and tracking zone. Here, the writing zone is the board, whereas the tracking zone is the space in front of the board. When the user’s hand is inside the writing zone, we implement the writing algorithm and the user can write on the board. When the user’s hand is in the tracking zone, the tracking algorithm is implemented where the index finger is now tracked continuously. This helps the user to understand where the cursor currently is with respect to the writing board.
 
+#### Depth Based Hand Removal 
+<img src="assets/flowchart1.png" width="635" height="350" alt="Depth Based Hand Removal ">&nbsp;&nbsp;
+
 Another feature of our solution is that the user can decide where his writing zone can be. The threshold is set by the user himself. If at one point of time, the user is at a particular position he can set the writing zone to be in front of his body. If at another point of time, the user decides to move out of that position, he/she can correspondingly shift the writing zone as well. This gives additional flexibility to the user to move around.
 
 #### Depth Based Hand Removal for the letter i
