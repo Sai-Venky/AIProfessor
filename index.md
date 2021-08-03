@@ -4,11 +4,9 @@ nav_order: 1
 ---
 ## Introduction
 
-<div class="row" style="margin-top: -3.5em;">
-	<a href="{{ '/assets/report.pdf' | relative_url }}" target="_blank">
-	  <img height="2px" src="{{ '/assets/pdf_icon.svg' | relative_url }}">
-	</a>
-</div>
+<a href="{{ '/assets/report.pdf' | relative_url }}" target="_blank">
+    <img height="2px" src="{{ '/assets/pdf_icon.svg' | relative_url }}">
+</a>
 
 The act of knowledge sharing has taken up several forms throughout history with books being the major medium for several decades. Now, in this digital age, documents are shared electronically between groups of people. We seek to revolutionize this field yet again. With this goal in my mind, we give you:- AI Professor.
 
