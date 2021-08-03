@@ -19,6 +19,7 @@ To see how, let us go back to the concept of traditional blackboards. When the u
 
 Another feature of our solution is that the user can decide where his writing zone can be. The threshold is set by the user himself. If at one point of time, the user is at a particular position he can set the writing zone to be in front of his body. If at another point of time, the user decides to move out of that position, he/she can correspondingly shift the writing zone as well. This gives additional flexibility to the user to move around.
 
+#### Depth Based Hand Removal for the letter i
 ![Depth Based Hand Removal](assets/depth_based_hand_removal.gif)
 
 To summarize, our product makes use of two deep learning models to efficiently implement the air writing algorithm:
