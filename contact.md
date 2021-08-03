@@ -3,8 +3,7 @@ title: About Us
 nav_order: 7
 ---
 ## About Us
-
-
+<link rel="stylesheet" href="/assets/css/image.css">
 <figure>
     <figure>
     <img src="assets/sai.jpeg" alt="SAI VENKATESH"/>
