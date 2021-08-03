@@ -1,8 +1,8 @@
 ---
-title: Contact US
+title: About Us
 nav_order: 7
 ---
-## Contact US
+## About Us
 
 <img width="200" height="200" src="{{ '/assets/sai.png' | relative_url }}">
 <img width="200" height="200" src="{{ '/assets/sowmi.png' | relative_url }}">
