@@ -3,8 +3,17 @@ title: About Us
 nav_order: 7
 ---
 ## About Us
+<style>
+#images {
+    display: flex;
+    justify-content: center;
+}
+figure {
+    text-align: center;
+}
+</style>
 
-<figure>
+<div id="images">
     <figure>
     <img src="assets/sai.jpeg" alt="SAI VENKATESH"/>
     <figcaption>SAI VENKATESH <br><a href="https://www.linkedin.com/in/sai-venkatesh/" target="_blank">
@@ -23,4 +32,4 @@ nav_order: 7
         <img width="30" height="30" src="{{ '/assets/linkedln.svg' | relative_url }}"></a><a href="https://github.com/VijayVignesh1/" target="_blank">
         <img width="30" height="30" src="{{ '/assets/github.png' | relative_url }}"></a></figcaption>
     </figure>
-</figure>
+</div>
