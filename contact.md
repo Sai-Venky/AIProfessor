@@ -10,15 +10,7 @@ SAI VENKATESH&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 <img width="200" height="200" src="{{ '/assets/sai.jpeg' | relative_url }}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="200" height="200" src="{{ '/assets/sai.jpeg' | relative_url }}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="200" height="200" src="{{ '/assets/vijay.png' | relative_url }}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-| ![space-1.jpg]('assets/sai.jpeg') | 
-|:--:| 
-| *SAI VENKATESH* |
-| ![space-1.jpg]('assets/sowmi.jpeg') | 
-|:--:| 
-| *SOWMIYA NARAYANAN* |
-| ![space-1.jpg]('assets/vijay.jpeg') | 
-|:--:| 
-| *VIJAY VIGNESH* |
+
 <figure>
   <img src="assets/sai.jpg" alt="SAI VENKATESH"/>
   <figcaption>SAI VENKATESH</figcaption>
