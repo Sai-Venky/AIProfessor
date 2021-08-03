@@ -10,3 +10,9 @@ We thank the OpenCV foundation for giving us this opportunity and the tools need
 
 #### Thank You OpenCV
 ![Open CV](assets/opencv.gif)
+
+
+Click Here to read the detailed report.
+<a href="{{ '/assets/report.pdf' | relative_url }}" target="_blank">
+    <img width="50" height="50" src="{{ '/assets/pdf_icon.svg' | relative_url }}">
+</a>
