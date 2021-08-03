@@ -1,1 +1,4 @@
-theme: jekyll-theme-slate
+title: "AI Professor"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "light"
+search_enabled: false
