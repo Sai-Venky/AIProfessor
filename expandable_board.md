@@ -1,9 +1,9 @@
 ---
-title: Expandable Grid
+title: Expandable Board
 parent: Proposed Solution
 nav_order: 2
 ---
-## Expandable Grid
+## Expandable Board
 
 The area captured by an input camera is fixed and limited. This area is not expandable. Hence applying the tracking algorithm on this limited area will restrict the user to that confined space.
 
