@@ -6,7 +6,6 @@ nav_order: 7
 
 
 #### Sai Venkatesh                      Sowmiya Narayanan                      Vijay Vignesh
-#### Detailed Report :
 
 <img width="200" height="300" src="{{ '/assets/sai.jpeg' | relative_url }}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="200" height="200" src="{{ '/assets/sowmi.png' | relative_url }}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
