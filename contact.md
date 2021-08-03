@@ -6,6 +6,7 @@ nav_order: 7
 
 
 <figure>
+<figure>
   <img src="assets/sai.jpeg" alt="SAI VENKATESH"/>
   <figcaption>SAI VENKATESH</figcaption>
 </figure>  <figure>
@@ -14,6 +15,7 @@ nav_order: 7
 </figure>  <figure>
   <img src="assets/vijay.png" alt="VIJAY VIGNESH"/>
   <figcaption>VIJAY VIGNESH</figcaption>
+</figure>
 </figure>
 
 
