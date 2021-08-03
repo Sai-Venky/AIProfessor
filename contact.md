@@ -6,6 +6,7 @@ nav_order: 7
 
 
 <figure>
+<figcaption>Caption for the bundle of images</figcaption>
 <figure>
   <img src="assets/sai.jpeg" alt="SAI VENKATESH"/>
   <figcaption>SAI VENKATESH <a href="https://www.linkedin.com/in/sai-venkatesh/" target="_blank">
