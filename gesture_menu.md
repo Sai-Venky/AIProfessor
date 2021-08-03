@@ -5,38 +5,16 @@ nav_order: 3
 ---
 ## Gesture based Menu-bar
 
-You can use the [editor on GitHub](https://github.com/Sai-Venky/AIProfessor/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Apart from this, we have also included gesture recognition to enable easy and smooth toggling between different modes. In order to avoid adding a separate resource-heavy gesture recognition model, we have utilized the inherent functionality of MediaPipe to determine various hand gestures based on the localized key-points.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Eraser](assets/eraser.gif)
 
-### Markdown
+![Save Board](assets/save_board.gif)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+An additional feature that we have added to enhance the user experience is the color changing cursor. We have divided the 3D space into 4 zones for the cursor. This helps the user to see where the cursor is with respect to the depth and enables the user to toggle between writing and tracking mode in a much more amiable fashion.
 
-```markdown
-Syntax highlighted code block
+![Cursor Color Changer](assets/cursor_color_changer.gif)
 
-# Header 1
-## Header 2
-### Header 3
+We also have a dedicated region (ROI) which can be used to detect the non-dominant hand to modify the size of the cursor based on the Euclidean distance between the index finger and the thumb finger. The upper and lower bound of the cursor size is pre-set.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sai-Venky/AIProfessor/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Cursor Size Changer](assets/cursor_size_changer.gif)

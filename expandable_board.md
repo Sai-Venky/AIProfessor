@@ -5,38 +5,14 @@ nav_order: 2
 ---
 ## Expandable Grid
 
-You can use the [editor on GitHub](https://github.com/Sai-Venky/AIProfessor/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The area captured by an input camera is fixed and limited. This area is not expandable. Hence applying the tracking algorithm on this limited area will restrict the user to that confined space. As this area is small, it would prove inadequate to write from the user’s perspective.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In order to mitigate this problem, a possible solution is to allow the user an option to stitch new frames in all the four directions and toggle between them. The user can select the direction where the expansion has to happen. These expansion buttons can be strategically placed and dynamically selected with the use of the index finger. However, this would create an additional overhead as the user has to now move back his finger to the original position where the writing had stopped in order to ensure continuity. A solution to this problem can be to use pre-defined gestures to expand this grid. All these viable solutions demand extra effort from the user’s perspective, when compared to the real-life writing scenarios. As such these won't be suitable when factors such as ease of use and adoption are considered. Therefore, any implemented solution should run automatically based on the user’s movements and without requiring any additional input from the user. To address this, we have proposed and implemented a novel solution as given below.
 
-### Markdown
+In a real-life scenario, a person adds the notes on the blackboard and physically moves oneself to write on a different section of the board. In other words, the blackboard is stationary and the user navigates around it.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Expandable Board](assets/expandable_board.gif)
 
-```markdown
-Syntax highlighted code block
+In our proposed solution of “Lazy Move”, the user remains stationary and the blackboard (our canvas) is shifted according to the user’s action. The board is divided into two areas called the stationary area and the expandable area. When the user navigates in the expandable area, the canvas moves in the opposite direction of the user's movement, thereby creating additional space for writing.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sai-Venky/AIProfessor/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The board is separated into four zones representing the directions where the expansion can happen. This includes any combination of the four which enables the user to move diagonally as well. When the user moves to the right, the grid will automatically move in the left direction thereby creating new space for writing on the right. This is similar to the original analogy of the user physically moving across the blackboard. The advantage of this approach is that the user need not move away from his position to create new space. Moreover, the user need not perform any action to move the grid. Instead, the user can continue to concentrate on the writing and the grid can be displaced automatically based on the same. The user would still be able to return to the original location. The expandable grid system with lazy move would ensure that the user can navigate throughout the entire canvas.
