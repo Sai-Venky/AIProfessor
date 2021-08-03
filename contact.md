@@ -9,10 +9,10 @@ nav_order: 7
   <img src="assets/sai.jpeg" alt="SAI VENKATESH"/>
   <figcaption>SAI VENKATESH</figcaption>
 </figure>  <figure>
-  <img src="assets/sowmi.jpeg" alt="SAI VENKATESH"/>
+  <img src="assets/sowmi.png" alt="SOWMIYA NARAYANAN"/>
   <figcaption>SOWMIYA NARAYANAN</figcaption>
 </figure>  <figure>
-  <img src="assets/vijay.jpeg" alt="SAI VENKATESH"/>
+  <img src="assets/vijay.png" alt="VIJAY VIGNESH"/>
   <figcaption>VIJAY VIGNESH</figcaption>
 </figure>
 
