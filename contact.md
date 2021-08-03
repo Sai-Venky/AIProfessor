@@ -4,13 +4,9 @@ nav_order: 7
 ---
 ## About Us
 <style>
-#images {
-    display: flex;
-    justify-content: center;
-}
-figure {
-    text-align: center;
-}
+    figure {
+    display: inline-block;
+    }
 </style>
 
 <div id="images">
