@@ -19,6 +19,10 @@ SAI VENKATESH&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 | ![space-1.jpg]('assets/vijay.jpeg') | 
 |:--:| 
 | *VIJAY VIGNESH* |
+<figure>
+  <img src="assets/sai.jpg" alt="SAI VENKATESH"/>
+  <figcaption>SAI VENKATESH</figcaption>
+</figure>
 <a href="https://www.linkedin.com/in/sai-venkatesh/" target="_blank">
     <img width="30" height="30" src="{{ '/assets/linkedln.svg' | relative_url }}">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
