@@ -3,6 +3,7 @@ description: A system for Air Writing utilizing depth-based recognition and dyna
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 search_enabled: true
+logo: "assets/icon.png"
 
 search:
   # Split pages into sections that can be searched individually
